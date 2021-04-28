@@ -1,0 +1,14 @@
+.btn{
+    min-width: 100%;
+    border-radius: 0px !important;
+    margin: 0px;
+    padding: 0px;
+}
+
+.grid-row{
+    margin-top: 100px;
+}
+
+ion-button::part(native){
+    border-radius: 0px;
+}
